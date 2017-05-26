@@ -37,3 +37,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+OfficialBuilds/Linux/OneMemoryLinuxBuild\.x86
+
+OfficialBuilds/Linux/OneMemoryLinuxBuild_Data/
+
+OfficialBuilds/macOS/OneMemoryMacBuild\.app/
+
+OfficialBuilds/Windows/OneMemoryWindowsBuild_Data/
+
+OfficialBuilds/Windows/OneMemoryWindowsBuild\.exe
