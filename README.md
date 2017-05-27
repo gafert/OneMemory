@@ -7,9 +7,7 @@ It demonstrates scanning methods and movements which can be used in videogames a
 
 ## Download
 
-* [Windows Build](https://github.com/gafert/OneMemory/raw/master/OfficialBuilds/Windows/OneMemoryWindowsBuild.zip)
-* [macOS Build](https://github.com/gafert/OneMemory/raw/master/OfficialBuilds/macOS/OneMemoryMacBuild.zip)
-* [Linux Build](https://github.com/gafert/OneMemory/raw/master/OfficialBuilds/Linux/OneMemoryLinuxBuild.zip)
+Please refere to the [Release Section](https://github.com/gafert/OneMemory/releases/) for the latest builds
 
 ## More Info
 This demonstration offers three Scanning Methods
