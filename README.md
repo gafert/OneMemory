@@ -15,12 +15,10 @@ This demonstration offers three Scanning Methods
 * Userscan
 * Stepscan
 
-It also offers two options to move the selection (suquencing)
-* Linear selection (simple scan)
-
-   Selects every element on the screen one after another
-* Row selection (group scan)
-
-   Selects first only rows and then only elements in the row
+It also offers two options to move the selection (sequencing)
+* Linear selection (simple scan)  
+Selects every element on the screen one after another
+* Row selection (group scan)  
+Selects first only rows and then only elements in that row
    
 
