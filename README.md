@@ -1,6 +1,8 @@
 # OneMemory
 One Switch Assistive Memory Game Demonstration
 
+![alt text](https://github.com/gafert/OneMemory/blob/master/Add/OneMemory.png "One Memory")
+
 ## What is this?
 This game is a game demonstration. 
 It demonstrates scanning methods and movements which can be used in videogames and other digital media with the help of a simple memory game. Scanning is especially important for people who are physiologically not able to interact with modern technology as they have limited input methods. Scanning helps these people my implementing techniques to control computers with only a limited number of switches (1-5). This game is playable with only one switch. (except the menu part, but you can implement scanning for that yourself if you want)
